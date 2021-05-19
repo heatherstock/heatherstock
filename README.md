@@ -1,6 +1,6 @@
 ### Hi there 👋 I'm Heather 🙂 I recently discovered and like this approach to being an engineer: https://1x.engineer/ 
 
-🔭 I’m currently working on Staff Pulse at TES - a tool to measure and improve the wellbeing of teachers, working with Javascript, Node.js, React/Redux, MongoDB, RabbitMQ, Postgres, SQL, OOP, TTD, and pair programming 👩‍💻
+🔭 I’m currently working at Skiller Whale, providing personalised learning for engineering teams 👩‍💻
 
 🌱 I’m currently learning about garderning and the best ways to combine rewilding and food production in my garden in Bexhill-on-Sea 👩‍🌾
 
